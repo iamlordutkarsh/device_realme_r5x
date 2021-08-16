@@ -11,7 +11,7 @@ ro.lmk.log_stats=true
 
 # PixelPlusUI OFFICIAL
 ro.ppui.device_name=Realme 5 Series
-ro.ppui.version=3.7
-ro.ppui.version_code=Ragnarok
+ro.ppui.version=3.8
+ro.ppui.version_code=Hikaru
 ro.ppui.is_official=true
 ro.ppui.maintainer_name=iamlordutkarsh
